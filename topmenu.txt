@@ -1,0 +1,7 @@
+﻿var ret = {"topmenu":[
+{"id":"guid1","name":"应用1","url":"/"}
+,{"id":"guid2","name":"应用2","url":"/About"}
+,{"id":"guid3","name":"单元网格管理","url":"https://www.baidu.com/"}
+,{"id":"guid4","name":"部件属性管理","url":"http://qxw1143380266.my3w.com"}
+]};
+var weburl = window.location.href;
